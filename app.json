@@ -1,0 +1,15 @@
+{
+  "name": "Bayanihan",
+  "displayName": "Bayanihan",
+  "android": {
+    "adaptiveIcon": {
+      "foregroundImage": "./assets/icon.png",
+      "backgroundColor": "#ffffff"
+    }
+  },
+  "splash": {
+    "image": "./assets/splash.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#39B54A"
+  }
+}
